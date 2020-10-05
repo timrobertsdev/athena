@@ -1,2 +1,2 @@
 # athena
-Athena for REddit
+Athena for Reddit
